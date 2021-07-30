@@ -6,7 +6,7 @@ Only one of four planned frameworks is complete, you can see a list below:
 
 - serializer-framework ✔️ A kotlin serializer (as configuration) framework for spigot or standalone use.
 - interface-framework :x: A complex and complete kotlin interface (inventory) framework for spigot.
-- instructor-framework :x: A useful very simple way to create commands in spigot with kotlin.
+- instructor-framework :x: A useful very simple way to create instructors (commands) in spigot with kotlin.
 - database-framework :x: A lightweight and asynchoronous kotlin database framework using Kotlin Exposed and HikariCP for spigot.
 - spigot-common :x: A set of common utilities and fast developing for spigot.
 
