@@ -1,4 +1,5 @@
-Hello! My name is uinnn! I a'm a Kotlin programmer, but i know three other languages, such as Java, JavaScript and C#. I also love cats! 🐱
+Hello! My name is José Carrara but commonly knowed as uin! 
+I a'm a Kotlin programmer, but i know three other languages, such as Java, JavaScript and C#. I also love cats! 🐱
 
 📖 I'm currently studying new ways to implement and facilitate the rapid productivity that Kotlin offers for uses with Minecraft plugins.
 Only one of four planned frameworks is complete, you can see a list below:
