@@ -12,9 +12,8 @@ Four of five planned frameworks is complete, you can see a list below:
 
 If any of my frameworks helped or interested you, please contribute by giving me a star! :star:
 
-- 🖥️ Kotlin Programmer
-- 🤍 Cats
-
-<a href="https://github.com/uinnn/serializer-framework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uinnn&show_icons=true&theme=cobalt&hide_border=true"/>
-</a>
+![](https://img.shields.io/github/v/release/uinnn/serializer-framework?color=yellow&label=serializer-framework&style=for-the-badge)
+![](https://img.shields.io/github/v/release/uinnn/interface-framework?color=yellow&label=interface-framework&style=for-the-badge)
+![](https://img.shields.io/github/v/release/uinnn/instructor-framework?color=yellow&label=instructor-framework&style=for-the-badge)
+![](https://img.shields.io/github/v/release/uinnn/database-framework?color=yellow&label=database-framework&style=for-the-badge)
+![](https://img.shields.io/static/v1?style=for-the-badge&label=spigot-common&message=Development&color=red)
