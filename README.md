@@ -12,8 +12,8 @@ Four of five planned frameworks is complete, you can see a list below:
 
 If any of my frameworks helped or interested you, please contribute by giving me a star! :star:
 
-![](https://img.shields.io/github/v/release/uinnn/serializer-framework?color=ffd700&label=serializer-framework&style=for-the-badge)
-![](https://img.shields.io/github/v/release/uinnn/interface-framework?color=ffd700&label=interface-framework&style=for-the-badge)
-![](https://img.shields.io/github/v/release/uinnn/instructor-framework?color=ffd700&label=instructor-framework&style=for-the-badge)
-![](https://img.shields.io/github/v/release/uinnn/database-framework?color=ffd700&label=database-framework&style=for-the-badge)
+![](https://img.shields.io/github/v/release/uinnn/serializer-framework?color=yellow&label=serializer-framework&style=for-the-badge)
+![](https://img.shields.io/github/v/release/uinnn/interface-framework?color=green&label=interface-framework&style=for-the-badge)
+![](https://img.shields.io/github/v/release/uinnn/instructor-framework?color=orange&label=instructor-framework&style=for-the-badge)
+![](https://img.shields.io/github/v/release/uinnn/database-framework?color=blue&label=database-framework&style=for-the-badge)
 ![](https://img.shields.io/static/v1?style=for-the-badge&label=spigot-common&message=Development&color=red)
