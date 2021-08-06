@@ -15,7 +15,15 @@ If any of my frameworks helped or interested you, please contribute by giving me
 <a href="https://github.com/uinnn/serializer-framework">
   <img align="center" src="https://img.shields.io/github/v/release/uinnn/serializer-framework?color=yellow&label=serializer-framework&style=for-the-badge"/>
 </a>
-![](https://img.shields.io/github/v/release/uinnn/interface-framework?color=green&label=interface-framework&style=for-the-badge)
-![](https://img.shields.io/github/v/release/uinnn/instructor-framework?color=orange&label=instructor-framework&style=for-the-badge)
-![](https://img.shields.io/github/v/release/uinnn/database-framework?color=blue&label=database-framework&style=for-the-badge)
-![](https://img.shields.io/static/v1?style=for-the-badge&label=spigot-common&message=Development&color=red)
+<a href="https://github.com/uinnn/interface-framework">
+  <img align="center" src="https://img.shields.io/github/v/release/uinnn/interface-framework?color=orange&label=interface-framework&style=for-the-badge"/>
+</a>
+<a href="https://github.com/uinnn/instructor-framework">
+  <img align="center" src="https://img.shields.io/github/v/release/uinnn/instructor-framework?color=green&label=instructor-framework&style=for-the-badge"/>
+</a>
+<a href="https://github.com/uinnn/database-framework">
+  <img align="center" src="https://img.shields.io/github/v/release/uinnn/database-framework?color=blue&label=database-framework&style=for-the-badge"/>
+</a>
+<a href="https://github.com/uinnn/spigot-common">
+  <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&label=spigot-common&message=Development&color=red"/>
+</a>
