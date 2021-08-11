@@ -8,7 +8,7 @@ Four of five planned frameworks is complete, you can see a list below:
 - [interface-framework](https://github.com/uinnn/interface-framework) ✔️ A complex and complete kotlin interface (inventory) framework for spigot.
 - [instructor-framework](https://github.com/uinnn/instructor-framework) ✔️ A useful very simple way to create instructors (commands) in spigot with kotlin.
 - [database-framework](https://github.com/uinnn/database-framework) ✔️ A lightweight and asynchronous kotlin database framework using Kotlin Exposed and HikariCP for spigot.
-- spigot-common :x: A set of common utilities and fast developing for spigot.
+- [spigot-common](https://github.com/uinnn/spigot-common) :x: A set of common utilities and fast developing for spigot.
 
 If any of my frameworks helped or interested you, please contribute by giving me a star! :star:
 
@@ -25,5 +25,5 @@ If any of my frameworks helped or interested you, please contribute by giving me
   <img align="center" src="https://img.shields.io/github/v/release/uinnn/database-framework?color=blue&label=database-framework&style=for-the-badge"/>
 </a>
 <a href="https://github.com/uinnn/spigot-common">
-  <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&label=spigot-common&message=Development&color=red"/>
+  <img align="center" src="https://img.shields.io/github/v/release/uinnn/spigot-common?color=red&label=spigot-commonk&style=for-the-badge"/>
 </a>
